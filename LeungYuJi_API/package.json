@@ -1,0 +1,16 @@
+{
+  "name": "Assignment_1",
+  "version": "1.0.0",
+  "description": "E-waste recycling manager using Node.js and MongoDB",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.24.8"
+  }
+}
